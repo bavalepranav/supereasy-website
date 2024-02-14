@@ -1,0 +1,21 @@
+.SIGN-UP-button{
+    HEIGHT:36PX;
+    background-color: rgb(46,164,79);
+    color: white;
+    border-radius: 7px;
+    width: 100px;
+    border:none;
+    cursor: pointer;
+}
+
+.request-now-button{
+    background-color: black;
+    width:110px;
+    color:white;
+    height: 32px;
+    cursor: pointer;
+
+
+
+}
+
